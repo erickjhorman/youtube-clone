@@ -68,5 +68,6 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>youtube-clone</finalName>
     </build>
 </project>
